@@ -1,0 +1,16 @@
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntitiyOrnek.exe.config
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntitiyOrnek.exe
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntitiyOrnek.pdb
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntityFramework.dll
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntityFramework.xml
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.Form1.resources
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.Properties.Resources.resources
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.csproj.CopyComplete
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.exe
+C:\Users\semih\Desktop\ToDolİST\EntitiyOrnek\EntitiyOrnek\obj\Debug\EntitiyOrnek.pdb
